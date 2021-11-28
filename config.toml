@@ -1,0 +1,4 @@
+baseURL = 'https://justafriend.xyz'
+languageCode = 'uk-UA'
+title = 'Just A Friend(ly) blog'
+theme = 'hugo-ink'
