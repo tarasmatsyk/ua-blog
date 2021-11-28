@@ -1,4 +1,4 @@
-baseURL = 'https://darktriad.art'
+baseURL = 'https://darktriad.art/'
 languageCode = 'uk-UA'
 title = 'Типовий блог'
 theme = 'hugo-ink'
