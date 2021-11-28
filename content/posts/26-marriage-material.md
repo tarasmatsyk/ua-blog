@@ -1,5 +1,5 @@
 ---
-title: "26 Marriage Material"
+title: "Oбіцяти не значить одружитись"
 date: 2020-10-08T23:21:57+02:00
 draft: false
 ---
